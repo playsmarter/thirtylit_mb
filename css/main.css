@@ -48,7 +48,7 @@ html, body {
 .container a,
 .container a:visited {
   text-decoration: none;
-  color: #00AE68;
+  color: #aaa;
 }
 .container {
   font-size: .9rem;
